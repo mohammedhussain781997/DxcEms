@@ -1,1 +1,2 @@
 this is banner
+we have to add colour in it
